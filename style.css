@@ -1,0 +1,16 @@
+.bulbc {
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+}
+
+.bulb1 {
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+

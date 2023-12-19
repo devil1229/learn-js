@@ -1,7 +1,7 @@
 //array Methods
 
 //map
-
+//most useful for react usestate
 //syntax
 var new_array = arr.map(function callback(element, index, array) {
     // Return value for new_array
